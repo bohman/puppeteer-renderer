@@ -1,5 +1,3 @@
-update
-
 [![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/zenato/puppeteer-renderer)
 
 # Puppeteer(Chrome headless node API) based web page renderer
